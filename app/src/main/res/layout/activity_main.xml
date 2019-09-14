@@ -18,4 +18,10 @@
         android:gravity="center"
         android:layout_centerInParent="true"/>
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="267dp"
+        android:layout_height="66dp"
+        android:text="SET" />
+
 </RelativeLayout>
